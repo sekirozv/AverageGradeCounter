@@ -1,0 +1,10 @@
+Z:\Инструменталки\пр7\AvgScore\bin\Release\AvgScore.exe.config
+Z:\Инструменталки\пр7\AvgScore\bin\Release\AvgScore.exe
+Z:\Инструменталки\пр7\AvgScore\bin\Release\AvgScore.pdb
+Z:\Инструменталки\пр7\AvgScore\obj\Release\AvgScore.csproj.AssemblyReference.cache
+Z:\Инструменталки\пр7\AvgScore\obj\Release\AvgScore.Form1.resources
+Z:\Инструменталки\пр7\AvgScore\obj\Release\AvgScore.Properties.Resources.resources
+Z:\Инструменталки\пр7\AvgScore\obj\Release\AvgScore.csproj.GenerateResource.cache
+Z:\Инструменталки\пр7\AvgScore\obj\Release\AvgScore.csproj.CoreCompileInputs.cache
+Z:\Инструменталки\пр7\AvgScore\obj\Release\AvgScore.exe
+Z:\Инструменталки\пр7\AvgScore\obj\Release\AvgScore.pdb
